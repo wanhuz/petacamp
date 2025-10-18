@@ -40,3 +40,8 @@
    ```bash
    git clone https://github.com/username/petacamp.git
    cd petacamp
+
+2. **Pasang dependencies**
+   composer install
+   npm install && npm run dev
+
