@@ -42,6 +42,7 @@
    cd petacamp
 
 2. **Pasang dependencies**
+   ```bash
    composer install
    npm install && npm run dev
 
